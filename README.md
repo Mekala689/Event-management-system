@@ -40,5 +40,3 @@
 
 
 
-5. Add a Gamified Participation System – students earn points, badges, and ranks for participation (unique feature).
-
